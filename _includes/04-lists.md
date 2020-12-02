@@ -1,5 +1,5 @@
 
-## Favorite Things :muscle: 
+## Favorite Things 
 - Programming Languages
   - Python
 - GitHub
